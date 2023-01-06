@@ -1,0 +1,82 @@
+/*
+Module Code: IT8906
+Module Name: Web and Mobile Development Using Frameworks
+Acad Year/Semester: 2022/2023 Sem 2
+Assignment Title: CA1 - React Core Concepts
+Student Name: Ong Wei Chuan
+Student No: P7461072
+
+Filename: main.css
+*/
+
+html {
+  background-color: #e1981e;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+body {
+  background-color: #e7ad4b;
+  color: black;
+  width: 50%;
+  min-width: 800px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: blue;
+  /* padding-bottom: 10px; */
+}
+
+label {
+  line-height: 1.6;
+}
+
+button {
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+}
+
+.movieNameInput {
+  width: 40%;
+}
+
+.movieMgmt {
+  padding: 10px;
+}
+
+.genreBtn {
+  float: right;
+}
+
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+td {
+  text-align: center;
+  padding: 3px;
+}
+
+.th {
+  text-align: center;
+}
+
+img {
+  width: 15px;
+  height: 15px;
+}
